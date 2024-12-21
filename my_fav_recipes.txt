@@ -1,0 +1,40 @@
+Recipe Name: Chocolate Cake
+Ingredients: Flour - 2 cups, Sugar - 1.5 cups, Cocoa Powder - 0.5 cups, Baking Soda - 1 tsp, Eggs - 2, Milk - 1 cup
+Taste: Sweet
+Cuisine: Dessert
+Preparation Time: 60 minutes
+Steps:
+1. Preheat the oven to 180°C.
+2. Mix the dry ingredients in a bowl.
+3. Add eggs and milk to the dry mixture and blend until smooth.
+4. Pour the batter into a greased cake tin.
+5. Bake for 30-35 minutes. Let it cool before serving.
+
+---
+
+Recipe Name: Spaghetti Carbonara
+Ingredients: Spaghetti - 200g, Eggs - 2, Parmesan Cheese - 0.5 cups, Pancetta - 100g, Garlic - 2 cloves, Black Pepper - to taste
+Taste: Savory
+Cuisine: Italian
+Preparation Time: 25 minutes
+Steps:
+1. Cook the spaghetti in salted boiling water until al dente.
+2. Fry the pancetta with minced garlic until crispy.
+3. Beat the eggs and mix with grated Parmesan cheese.
+4. Combine the hot spaghetti with the pancetta mixture.
+5. Quickly mix in the egg and cheese mixture to create a creamy sauce.
+6. Season with black pepper and serve hot.
+
+---
+
+Recipe Name: Vegetable Stir-Fry
+Ingredients: Broccoli - 1 cup, Carrot - 1, Bell Pepper - 1, Soy Sauce - 2 tbsp, Garlic - 3 cloves, Olive Oil - 2 tbsp
+Taste: Savory
+Cuisine: Asian
+Preparation Time: 15 minutes
+Steps:
+1. Heat olive oil in a wok or skillet.
+2. Add minced garlic and stir-fry until fragrant.
+3. Toss in the broccoli, carrot, and bell pepper. Stir-fry for 5-7 minutes.
+4. Add soy sauce and cook for an additional 2 minutes.
+5. Serve hot with rice or noodles.
